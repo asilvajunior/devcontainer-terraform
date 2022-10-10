@@ -6,7 +6,7 @@
 
 This is a starter template meant to help get started with new Terraform on Azure projects.
 
-Additionally, the repo includes a [dev container](https://code.visualstudio.com/docs/remote/containers) meant for use with [VS Code](https://code.visualstudio.com/) and [Visual Studio CodeSpaces](https://visualstudio.microsoft.com/services/visual-studio-codespaces/). Note that the VS CodeSpaces badge in this README points at the repo through a URL. If you intend to fork this repo, that URL will need to be updated accordingly in `README.md`.
+This repo includes a [dev container](https://code.visualstudio.com/docs/remote/containers) meant for use with [VS Code](https://code.visualstudio.com/) and [Visual Studio CodeSpaces](https://visualstudio.microsoft.com/services/visual-studio-codespaces/). 
 
 ## Generating the dev container
 
