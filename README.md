@@ -25,6 +25,10 @@ This material is part of the content created on my Website: [Unicast Cloud](http
   <a href="https://www.instagram.com/unicastlab/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
 ## 📝 License
 
 This project is under [MIT License](./LICENSE).
